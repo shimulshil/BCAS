@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
+.billede{
+    display:block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left:45em;
+    /*margin-right:100em;*/
+    width: 5%;
+    max-width: 800px;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+.test1{
+    margin: 10px;
+    /*border: 10px solid black;*/
+    padding: 10px;
+    background-color: chartreuse;
+    width: 100%;
+}
+.test{
+    margin: 10px;
+    /*border: 10px solid black;*/
+    padding: 10px;
+    background-color: chartreuse;
+    width: 50%;
+}
+.header{
+    background:lightblue;
+    padding: 10px;
+}
+.footer{
+    background:lightblue;
+    padding: 10px;
+}
+.flex{
+    display: flex;
+    max-width: 1000px;
+    margin: 0 auto 0 auto;
+
+}
+h1{
+    text-align: center;
+}
